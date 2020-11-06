@@ -1,5 +1,5 @@
 ## Installation
-Please refer to this repo for instructions: [docker-setup](https://github.com/mbzama/docker-setup)
+Please refer to this repo for instructions: [docker-setup](https://github.com/kdursoji/docker-setup)
    
       
 ## Cheatsheet
@@ -95,7 +95,7 @@ Copy from Docker Container to Host machine:
 	     
     
 ## Examples
-- [Java](https://github.com/mbzama/docker-examples-java)
+- [Java](https://github.com/kdursoji/docker-examples-java)
 - [NodeJs](https://github.com/mbzama/docker-training-nodejs)
 - [Angular](https://github.com/mbzama/docker-examples-angular)
 - [MEAN](https://github.com/mbzama/docker-examples-mean)
